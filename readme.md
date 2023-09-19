@@ -7,12 +7,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love making new friends and learningfriendsTwitter from them!
 
-
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/skinjamamulhaque/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/jamam07/" />][instagram]
-
 <br />
 
 ### Languages and Tools:
